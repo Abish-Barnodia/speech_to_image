@@ -1,0 +1,6 @@
+.env
+temp_recording.wav
+image.jpg
+image.png
+__pycache__/
+*.pyc
